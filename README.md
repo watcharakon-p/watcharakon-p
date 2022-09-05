@@ -1,12 +1,11 @@
 # Watcharakon Paleekan
-#### Lead Developer
 
-## Hello World, I'm Arm!
-<hr>
-I am a software engineer with a passion for learning. Normal human being lost in worlds 0 and 1. I've been working in programming since I graduated nice to meet you.
+### Hello World, I'm Arm!
+
+> I am a software engineer with a passion for learning. Normal human being lost in worlds 0 and 1. I've been working in programming since I graduated nice to meet you.
 
 ### ✏️ About Me
-```
+```javascript
 const aboutMe = {
    'fullName' : 'watcharakon paleekan',
    'nickName' : 'Arm',
