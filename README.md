@@ -1,5 +1,7 @@
 # Watcharakon Paleekan
 
+🏥 Pixilla 📍 Bangkok,Thailand
+
 ### Hello World, I'm Arm!
 
 > I am a software engineer with a passion for learning. Normal human being lost in worlds 0 and 1. I've been working in programming since I graduated nice to meet you.
@@ -32,3 +34,6 @@ GPA: 2.81
 ### ☎️ Contact Me
 - Email : watcharakonarm@gmail.com
 - Line ID : ARMMY888
+
+### 💎 Skill
+`HTML` `CSS` `javascript` `Typescript` `php`
